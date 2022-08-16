@@ -12,3 +12,6 @@ npm install vue-router@4
 
 ## pinia install
 npm install pinia
+
+## axios install
+npm install axios
